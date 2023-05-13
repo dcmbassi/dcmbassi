@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dcmbassi
-- 👀 I’m interested in building web and mobile applications
-- 🌱 I’m currently learning NextJS, React Native, and developing a growing interest toward AI and ML
-- 💞️ I’m looking to collaborate on JavaScript and Python projects
+- 👀 I build web and mobile applications
+- 🌱 Specialties include NextJS, React Native and native web technologies
+- 📖 Currently learning Svelte and the T3 stack
+- 💞️ If you want to collaborate on JavaScript/TypeScript projects, let's talk
 - 📫 How to reach me: dcmbassi@gmail.com
 
 <!---
